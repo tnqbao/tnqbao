@@ -1,5 +1,5 @@
-### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=tnqbao&theme=dark&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+###                                                           Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=tnqbao&border_radius=5&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 <!--
 **tnqbao/tnqbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
