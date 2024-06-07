@@ -4,7 +4,7 @@
 </a>
 <a href="https://github.com/tnqbao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnqbao" />
-</a>    
+</a>
 <a href="https://github.com/tnqbao"> 
     <img width=840 align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
 </a>  
