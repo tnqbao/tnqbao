@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnqbao" />
 </a>  
 <a href="https://github.com/tnqbao"> 
-    <img width=800 align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
+    <img width=900 align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
 </a>
