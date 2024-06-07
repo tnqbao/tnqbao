@@ -5,5 +5,7 @@
 <a href="https://github.com/tnqbao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnqbao" />
 </a>  
-  
+<a href="https://github.com/tnqbao"> 
+    <img align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
+</a>
   [![GitHub Streak](https://streak-stats.demolab.com?user=tnqbao)](https://git.io/streak-stats)
