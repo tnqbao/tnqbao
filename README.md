@@ -8,4 +8,3 @@
 <a href="https://github.com/tnqbao"> 
     <img align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
 </a>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tnqbao)](https://git.io/streak-stats)
