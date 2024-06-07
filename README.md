@@ -7,8 +7,5 @@
 </a>    
 <a href="https://github.com/tnqbao"> 
     <img width=840 align="center" src="https://streak-stats.demolab.com?user=tnqbao" />
-</a>
-
-<div>
-  <h3 > Personal Deploy Domain: </h3> <a href=" https://iambao.id.vn"> Click here</a>
-</div>
+</a>  
+<h3 > Personal Deploy Domain: </h3> <a href=" https://iambao.id.vn"> Click here</a>
