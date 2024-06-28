@@ -23,3 +23,9 @@
     <img src="https://skillicons.dev/icons?i=js,cs,java,cpp" />
   </a>
 </p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,npm,tailwind,dotnet,spring,mysql,docker,nginx,postman,git" />
+  </a>
+</p>
