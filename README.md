@@ -1,6 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Tran Nguyen Quoc Bao</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnqbao&label=Profile%20views&color=0e75b6&style=flat" alt="tnqbao" /> </p>
-- 🌱 I’m currently learning **.Net**  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnqbao&label=Profile%20views&color=0e75b6&style=flat" alt="tnqbao" /> </p>  
 
 <h3 > Personal Deploy Domain: <a href="https://iambao.id.vn"> Click here</a> </h3>
 
